@@ -24,7 +24,8 @@ Models were fitted and evaluated with features and without features, aiming for 
 <b>Part 5: Forecasting With Features</b>
 * models: Linear Regressor, Random Forest Regressor, and LightBGM Regressor
 
-<b>Part 6: Forcasting Without Features
+<b>Part 6: Forcasting Without Features </b>
 * models: AR, and SARIMA
 
 <b>Final Report</b>
+Linear Regressor had the best overall performance on the test set; accurately forecasting with minimal average and relative to actual error.  
